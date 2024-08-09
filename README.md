@@ -1,7 +1,7 @@
 # Video Game Screenshots Dataset
 ## Observing the Coming of Age of Video Games' Images
 
-This repository holds a dataset of video game screenshots, scripts aiding in analysing these, and the resulting data from the analysis. The Video Game Screenshots Dataset (VGSD) consists of 113'934 in-game screenshots, taken of 4316 video games from 1950-1990.
+This repository holds a dataset of video game screenshots, scripts aiding in analysing these, and the resulting data from the analysis. The Video Game Screenshots Dataset (VGSD) consists of 113'913 in-game screenshots, taken of 4316 video games from 1950-1990.
 
 ## Screenshots
 ![Screenshot of the FiftyOne interface with some samples loaded](Screenshot_20240704_205800.png)
